@@ -47,7 +47,7 @@
 
 <table border = "1">
   <thead>
-    <th colspan = "3">Sample Final Regression Scores</th>
+    <th colspan = "3">Sample Deep Neural Network Regression Scores</th>
   </thead>
   <tbody>
     <tr>
@@ -69,6 +69,7 @@
   </tbody>
 </table>
 
+These results vary slightly due to the random nature of Deep Learning.
 
 
 ## References:
