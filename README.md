@@ -4,11 +4,11 @@ In this project, the objective is to predict the trends of several greenhouse ga
 
 ## Dataset
 
-The data contains 36,733 instances of 11 sensor measurements aggregated over one hour collected over a five-year period between 2011 and 2015. The original raw dataset can be obtained from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set). For convenience, all five datasets were manually combined into one file in order to predict the overall trends for five years. Alternatively, this project can also used to predict the results for each year.
+The data contains 36,733 instances of 11 sensor measurements aggregated over one hour collected over a five-year period between 2011 and 2015. The original raw dataset can be obtained from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set). For convenience, all five datasets were manually merged into one file in order to predict the overall trends for five years. Alternatively, this project can also used to predict the results for each year.
 
 ## Results
 
-This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The cross-validated training (CV) and testing/validation (Val.) results for each optimized standard model are presented below:
+This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The k-fold cross-validated training (CV) and testing/validation (Val.) results for each optimized standard model are presented below:
 
 <table border = "1">
   <thead>
