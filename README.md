@@ -8,7 +8,7 @@ The data contains 36,733 instances of 11 sensor measurements aggregated over one
 
 ## Results
 
-This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The results for each optimized standard model are presented below:
+This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The cross-validated training (CV) and testing/validation (Val.) results for each optimized standard model are presented below:
 
 <table border = "1">
   <thead>
