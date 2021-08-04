@@ -1,5 +1,14 @@
 # Gas Turbine Emissions
 
+In this project, the objective is to predict the trends of several greenhouse gases, namely Carbon Monoxide (CO) and Nitrogen Oxides (NOx), in a gas turbine and their effects on its overall energy yield. This turbine was located in the northwestern region of Turkey. The results of this project can be used to determine the overall efficiency and environmental effects of greenhouse gases caused.
+
+## Dataset
+
+The data contains 36,733 instances of 11 sensor measurements aggregated over one hour collected over a five-year period between 2011 and 2015. The original raw dataset can be obtained from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set). For convenience, all five datasets were manually combined into one file in order to predict the overall trends for five years. Alternatively, this project can also used to predict the results for each year.
+
+## Results
+
+This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The results for each optimized standard model are presented below:
 
 <table border = "1">
   <thead>
@@ -42,8 +51,7 @@
   </tbody>
 </table>
 
-
-
+For the Neural Network model, the results vary slightly due to the random nature of Deep Learning. Shown below are some sample results:
 
 <table border = "1">
   <thead>
@@ -51,28 +59,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>MAE</b></td>
+      <td><b>Mean Absolute Error (MAE)</b></td>
       <td>0.580</td>
     </tr>
     <tr>
-      <td><b>MSE</b></td>
+      <td><b>Mean Square Error (MSE)</b></td>
       <td>0.560</td>
     </tr>
     <tr>
-      <td><b>RMSE</b></td>
+      <td><b>Root Mean Square Error (RMSE)</b></td>
       <td>0.748</td>
     </tr>
     <tr>
-      <td><b>R^2</b></td>
+      <td><b>R^2 Score</b></td>
       <td>0.998</td>
     </tr>
   </tbody>
 </table>
 
-These results vary slightly due to the random nature of Deep Learning.
-
-
 ## References:
 
 - https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set
-- Heysem KAYA, Pınar  TÜFEKCİ and Erdinç UZUN. 'Predicting CO and NOx emissions from gas turbines: novel data and a benchmark PEMS', Turkish Journal of Electrical Engineering & Computer Sciences, vol. 27, 2019, pp. 4783-4796, [Web Link]. Weblink: [Web Link]
+- Heysem KAYA, Pınar TÜFEKCİ and Erdinç UZUN. 'Predicting CO and NOx emissions from gas turbines: novel data and a benchmark PEMS', Turkish Journal of Electrical Engineering & Computer Sciences, vol. 27, 2019, pp. 4783-4796, [Web Link]. Weblink: [Web Link]
