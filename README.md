@@ -4,7 +4,7 @@ In this project, the objective is to predict the trends of several greenhouse ga
 
 ## Dataset
 
-The data contains 36,733 instances of 11 sensor measurements aggregated over one hour collected over a five-year period between 2011 and 2015. The original raw dataset can be obtained from the UCI Machine Learning Repository (see References). A brief description of each measurement can be found in the gas_turbine_features.txt file located in the "data" folder as well as all datasets. For convenience, all five datasets were manually merged into one file (gt_2011-15.csv) in order to predict the overall trends for five years. Alternatively, this project can also used to predict the results for each year.
+The data contains 36,733 instances of 11 sensor measurements aggregated over one hour collected over a five-year period between 2011 and 2015. The original raw dataset can be obtained from the UCI Machine Learning Repository (see References). A brief description of each measurement can be found in the "gas_turbine_features.txt" file located in the "data" folder as well as all datasets. For convenience, all five datasets were manually merged into one file (gt_2011-15.csv) in order to predict the overall trends for five years. Alternatively, this project can also used to predict the results for each year.
 
 ## Results
 
