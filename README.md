@@ -55,7 +55,7 @@ For the Neural Network model, the results vary slightly due to the random nature
 
 <table border = "1">
   <thead>
-    <th colspan = "3">Sample Deep Neural Network Regression Scores</th>
+    <th colspan = "3">Sample Neural Network Regression Scores</th>
   </thead>
   <tbody>
     <tr>
