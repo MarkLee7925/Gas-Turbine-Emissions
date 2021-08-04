@@ -42,6 +42,35 @@
   </tbody>
 </table>
 
+
+
+
+<table border = "1">
+  <thead>
+    <th colspan = "3">Sample Final Regression Scores</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MAE</b></td>
+      <td>0.580</td>
+    </tr>
+    <tr>
+      <td><b>MSE</b></td>
+      <td>0.560</td>
+    </tr>
+    <tr>
+      <td><b>RMSE</b></td>
+      <td>0.748</td>
+    </tr>
+    <tr>
+      <td><b>R^2</b></td>
+      <td>0.998</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## References:
 
 - https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set
