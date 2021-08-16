@@ -1,6 +1,6 @@
 # Gas Turbine Emissions
 
-In this project, the objective is to predict the trends of several gas turbine sensor measurements, namely Carbon Monoxide (CO) and Nitrogen Oxides (NOx), and their effects on its overall energy yield. This turbine was located in the northwestern region of Turkey. The results of this project can be used to determine the overall efficiency and environmental effects of greenhouse gases caused.
+Carbon emissions have always been a major concern for the environment and in our society. The rise of global warming and increased awareness of climate change have been major issues in the past several years. In this project, the objective is to predict the trends of several gas turbine sensor measurements, namely Carbon Monoxide (CO) and Nitrogen Oxides (NOx), and their effects on its overall energy yield. This turbine was located in the northwestern region of Turkey. The results of this project can be used to determine the overall efficiency and environmental effects of greenhouse gases caused.
 
 ## Dataset
 
