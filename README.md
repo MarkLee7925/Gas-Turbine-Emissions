@@ -8,6 +8,8 @@ The data contains 36,733 instances of 11 sensor measurements aggregated over one
 
 ## Results
 
+Data visualization techniques were employed to showcase the correlation and trends of the data features and how they relate to the overall energy yield (the dependent variable). Furthermore, the K-Means clustering algorithm (for unsupervised learning) was employed to help the viewer better understand certain data patterns and features by grouping them into clusters.
+
 This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The k-fold cross-validated training (CV) and testing/validation (Val.) results for each optimized standard model are presented below:
 
 <table border = "1">
