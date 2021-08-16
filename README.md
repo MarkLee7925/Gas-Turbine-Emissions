@@ -59,19 +59,19 @@ For the Neural Network model, the results vary slightly due to the random nature
   </thead>
   <tbody>
     <tr>
-      <td><b>Mean Absolute Error (MAE)</b></td>
-      <td>0.580</td>
+      <td><b>MAE</b></td>
+      <td>0.539</td>
     </tr>
     <tr>
-      <td><b>Mean Square Error (MSE)</b></td>
-      <td>0.560</td>
+      <td><b>MSE</b></td>
+      <td>0.501</td>
     </tr>
     <tr>
-      <td><b>Root Mean Square Error (RMSE)</b></td>
-      <td>0.748</td>
+      <td><b>RMSE</b></td>
+      <td>0.708</td>
     </tr>
     <tr>
-      <td><b>R^2 Score</b></td>
+      <td><b>R^2</b></td>
       <td>0.998</td>
     </tr>
   </tbody>
