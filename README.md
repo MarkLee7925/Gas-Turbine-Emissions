@@ -10,74 +10,12 @@ The data contains 36,733 instances of 11 sensor measurements aggregated over one
 
 Data visualization techniques were employed to showcase the correlation and trends of the data features and how they relate to the overall energy yield (the dependent variable). Furthermore, the K-Means clustering algorithm (for unsupervised learning) was employed to help the viewer better understand certain data patterns and features by grouping them into clusters.
 
-This project utilized three standard Machine Learning Regression models and one Deep Neural Network model. The k-fold cross-validated training (CV) and testing/validation (Val.) results for each optimized standard model are presented below:
+This project utilized the following models.
 
-<table border = "1">
-  <thead>
-    <th colspan = "5">Final Regression Scores</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Model</b></td>
-      <td colspan='2'><b>R^2</b></td>
-      <td colspan='2'><b>RMSE</b></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td><b>CV</b></td>
-      <td><b>Val.</b></td>
-      <td><b>CV</b></td>
-      <td><b>Val.</b></td>
-    </tr> 
-    <tr>
-      <td><b>Linear Regression (LR)</b></td>
-      <td>0.996</td>
-      <td>0.996</td>
-      <td>0.952</td>
-      <td>1.000</td>
-    </tr>
-    <tr>
-      <td><b>Decision Tree (DT)</b></td>
-      <td>0.997</td>
-      <td>0.997</td>
-      <td>0.891</td>
-      <td>0.896</td>
-    </tr>
-    <tr>
-      <td><b>LightGBM (LGB)</b></td>
-      <td>0.998</td>
-      <td>0.998</td>
-      <td>0.708</td>
-      <td>0.761</td>
-    </tr>
-  </tbody>
-</table>
-
-For the Neural Network model, the results vary slightly due to the random nature of Deep Learning. Shown below are some sample results:
-
-<table border = "1">
-  <thead>
-    <th colspan = "3">Sample Neural Network Regression Scores</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>MAE</b></td>
-      <td>0.539</td>
-    </tr>
-    <tr>
-      <td><b>MSE</b></td>
-      <td>0.501</td>
-    </tr>
-    <tr>
-      <td><b>RMSE</b></td>
-      <td>0.708</td>
-    </tr>
-    <tr>
-      <td><b>R^2</b></td>
-      <td>0.998</td>
-    </tr>
-  </tbody>
-</table>
+- Logistic Regresion (LR)
+- Decision Tree (DT)
+- LightGBM (LGB)
+- Deep Neural Network (DNN)
 
 ## References:
 
