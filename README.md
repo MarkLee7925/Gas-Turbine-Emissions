@@ -19,9 +19,10 @@ This project utilized the following models.
 - LightGBM (LGB)
 - Deep Neural Network (DNN)
 
-## Dashboard:
+## Results (at a glance):
 
-A Power BI dashboard (GTEmissionsBI.pbix) was created to illustrate some of the most important statistics and data trends  at a glance.
+![GTEmissions-1](https://user-images.githubusercontent.com/59748085/205375881-d8ce1a77-68fa-4131-89a4-3084f2e11d54.JPG)
+*created using Power BI (GTEmissionsBI.pbix). Additional screenshots and the actual dashboard are located in the Power BI folder.
 
 ## References:
 
