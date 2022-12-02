@@ -19,6 +19,10 @@ This project utilized the following models.
 - LightGBM (LGB)
 - Deep Neural Network (DNN)
 
+## Dashboard:
+
+A Power BI dashboard (GTEmissionsBI.pbix) was created to illustrate some of the most important statistics and data trends  at a glance.
+
 ## References:
 
 - Heysem KAYA, Pınar TÜFEKCİ and Erdinç UZUN. 'Predicting CO and NOx emissions from gas turbines: novel data and a benchmark PEMS', Turkish Journal of Electrical Engineering & Computer Sciences, vol. 27, 2019, pp. 4783-4796.
