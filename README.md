@@ -22,10 +22,9 @@ This project utilized the following models.
 ## Results (at a glance):
 
 ![GTEmissions-1](https://user-images.githubusercontent.com/59748085/205375881-d8ce1a77-68fa-4131-89a4-3084f2e11d54.JPG)
-*created using Power BI (GTEmissionsBI.pbix). Additional screenshots and the actual dashboard are located in the Power BI folder.
+*created using Power BI (GTEmissionsBI.pbix). Additional screenshots and the dashboard file are located in the Power BI folder.
 
 ## References:
-
 - Heysem KAYA, Pınar TÜFEKCİ and Erdinç UZUN. 'Predicting CO and NOx emissions from gas turbines: novel data and a benchmark PEMS', Turkish Journal of Electrical Engineering & Computer Sciences, vol. 27, 2019, pp. 4783-4796.
 - https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set
 - https://www.researchgate.net/publication/344718002_Predicting_CO_and_NOxemissions_from_gas_turbines_novel_data_and_abenchmark_PEMS
