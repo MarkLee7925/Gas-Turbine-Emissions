@@ -21,7 +21,7 @@ This project utilized the following models.
 
 ## Results (at a glance):
 
-![GTEmissions-1](https://user-images.githubusercontent.com/59748085/205375881-d8ce1a77-68fa-4131-89a4-3084f2e11d54.JPG)
+![GTEmissions-1](https://user-images.githubusercontent.com/59748085/232559103-33cf1e65-24b1-4f05-840a-f2ace1474bc1.JPG)
 *created using Power BI (GTEmissionsBI.pbix). Additional screenshots and the dashboard file are located in the Power BI folder.
 
 ## References:
